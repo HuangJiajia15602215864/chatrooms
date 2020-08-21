@@ -1,5 +1,5 @@
 # chatrooms
-利用node实现事件驱动的聊天室程序，客户端实时采用webSocket方案。
+利用node实现事件驱动的聊天室程序，服务端实时采用Socket.IO，客户端实时采用webSocket方案,以及利用jQuery进行DOM操作。
 
 
 ## 代码目录
